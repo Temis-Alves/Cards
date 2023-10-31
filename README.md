@@ -1,2 +1,2 @@
-# Login
- Construção de uma tela de login responsiva com apenas 'HTML/CSS", falta terminar de configurar.
+# Cards
+ Construção de Cards utilizando apenas HTML5 e CSS3.
